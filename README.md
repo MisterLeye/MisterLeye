@@ -91,7 +91,7 @@
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: leye.mouhamadou@ept.edu.sn
 * 💼 LinkedIn: (add your link)
 
 ---
