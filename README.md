@@ -1,98 +1,101 @@
-# 👋 Salut, moi c’est Mouhamadou Leye  
+# 👋 Hi, I'm Mleye
 
-🎓 Master 1 – Ingénierie Logicielle & Intelligence Artificielle  
-🔐 Passionné par la cybersécurité, Linux et les architectures systèmes  
-🤖 Intéressé par l’Intelligence Artificielle appliquée à la sécurité et aux systèmes  
-
----
-
-## 🧠 À propos de moi  
-
-Je conçois, développe et sécurise des infrastructures et des applications en combinant :
-
-- 🖥️ Administration systèmes & réseaux  
-- 🔐 Sécurité des infrastructures  
-- 💻 Ingénierie logicielle  
-- 🤖 Intelligence artificielle  
-
-Mon objectif est de devenir ingénieur spécialisé en **sécurité des systèmes intelligents**, à l’intersection entre cybersécurité, cloud et IA.
-
-Je travaille régulièrement sur :
-- 🔥 Sécurisation d’infrastructures réseau (pfSense, VLAN, VPN)
-- 📊 Supervision & monitoring (Zabbix, analyse d’anomalies)
-- ⚙️ Automatisation avec Python & Bash
-- 🤖 Projets en IA & data (analyse de données, algorithmes, ML)
+🎓 Master 1 in **Software Engineering & Artificial Intelligence (MILIA)**
+🔐 Passionate about **Cybersecurity, Networks & Systems**
+🚀 Focused on building **secure, reliable and monitored infrastructures**
 
 ---
 
-## 🛠️ Compétences Techniques  
+## 🧠 About Me
 
-### 🌐 Réseaux
-- Conception et déploiement d’infrastructures LAN / multi-sites  
-- Configuration : DNS, DHCP, VPN, VoIP  
-- Segmentation VLAN & politiques de filtrage  
-- Supervision et diagnostic réseau  
-
-### 💻 Systèmes
-- Administration Linux (Debian / Ubuntu Server)  
-- Windows Server  
-- Scripts d’automatisation (Python, Bash)  
-- Déploiement de services (Apache, Samba, FTP, etc.)  
-
-### 🔐 Sécurité
-- Pare-feu (pfSense)  
-- Contrôle d’accès & segmentation réseau  
-- Analyse d’incidents & monitoring  
-- Bonnes pratiques de hardening  
-
-### 🤖 Intelligence Artificielle & Data
-- Python (NumPy, Pandas, Matplotlib)  
-- Bases du Machine Learning  
-- Manipulation & analyse de données  
-- Implémentation d’algorithmes  
+* 🔐 Strong interest in **Cybersecurity & Infrastructure Hardening**
+* 🤖 Background in **Artificial Intelligence & Software Engineering**
+* 🧠 Applying AI concepts to **security, anomaly detection and intelligent systems**
+* 🌐 Hands-on experience with **network architecture & services deployment**
+* 🛡️ Focus on **system security, monitoring and attack prevention**
+* ⚙️ I enjoy building **real-world infrastructures, not just theory**
 
 ---
 
-### 📂 Projets réalisés
+## 🛠️ Technical Skills
 
-- 🔹 **Sécurisation d’une infrastructure réseau avec pfSense et supervision Zabbix**  
-  _Mise en place d’un pare-feu pfSense (filtrage, VPN, haute disponibilité) et intégration d’un serveur Zabbix pour supervision en temps réel et détection proactive des anomalies._  
-  📎 [Voir le projet](https://github.com/MleyeAltf4/pfsense-zabbix-securite)  
+### 🔐 Cybersecurity
 
-- 🔹 **Mise en place d’une infrastructure réseau sous Linux**  
-  _Installation et configuration d’un réseau local sous Debian/Ubuntu Server avec services réseau (DNS, DHCP, partage de fichiers)._  
-  📎 [Voir le projet](https://github.com/MleyeAltf4/infrastructure-linux)  
+* pfSense (Firewall, NAT, VPN)
+* Network segmentation & access control
+* Infrastructure hardening (Linux)
+* Threat monitoring & alerting
 
-- 🔹 **Configuration multisite VoIP**  
-  _Déploiement d’un système de téléphonie IP (Asterisk) interconnectant plusieurs sites via VPN et trunk SIP._  
-  📎 [Voir le projet](https://github.com/MleyeAltf4/voip-multisite)  
+### 🌐 Systems & Networks
 
+* DHCP, DNS, Apache, FTP
+* Linux server administration
+* Multi-site network architecture
+* VoIP infrastructure deployment
 
+### 📊 Monitoring & Tools
 
-## Contact
-- 📧 Email : leye.mouhamadou@ept.edu.sn
+* Zabbix (supervision & alerting)
+* System performance monitoring
+* Log analysis
 
+### 💻 Programming
 
-## 🎯 Objectifs  
+* Python
+* C
+* SQL
 
-- Approfondir mes compétences en IA appliquée à la sécurité  
-- Contribuer à des projets open-source  
-- Intégrer un stage en ingénierie logicielle / cybersécurité / IA  
-- Construire des solutions intelligentes et sécurisées  
+---
 
+## 🚀 Key Projects
 
-*Explorez mes dépôts pour découvrir mes projets !*
-<!--
-**MleyeAltf4/MleyeAltf4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 🔐 Securing a Linux Infrastructure (Final Year Project)
 
-Here are some ideas to get you started:
+> **"Securisation d'une infrastructure Linux via pfSense et supervision par Zabbix"**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Deployment of a **secure network architecture using pfSense**
+* Implementation of **monitoring with Zabbix**
+* Detection of anomalies and system events
+* Infrastructure hardening and access control
+
+---
+
+### 🔹 🌐 Complete Network Infrastructure Setup
+
+> Design and deployment of a full network environment:
+
+* DHCP & DNS servers
+* Apache web server
+* FTP server
+* Centralized services management
+
+---
+
+### 🔹 ☎️ Multi-site VoIP System
+
+> Implementation of a **VoIP communication system across multiple sites**
+
+* Inter-site communication setup
+* Network configuration for real-time communication
+* Reliability and performance considerations
+
+---
+
+## 📈 GitHub Stats
+
+![Mleye's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisterLeye\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterLeye\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: (add your link)
+
+---
+
+## ⚡ Vision
+
+> Becoming a **Cybersecurity & Network Engineer** capable of designing, securing and monitoring critical infrastructures 🚀
