@@ -70,7 +70,7 @@ Je travaille régulièrement sur :
 
 
 ## Contact
-- 📧 Email : Mleye.altf4@gmail.com
+- 📧 Email : leye.mouhamadou@ept.edu.sn
 
 
 ## 🎯 Objectifs  
